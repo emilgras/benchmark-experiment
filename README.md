@@ -4,7 +4,7 @@
 
 * _**Formulate a hypothesis/problem statement about behavior of response times of these three web servers.**_
 
-  The delay upon sending a request from point a to point b is proportional to the length between the same points.
+  The response time for a single request sent from point A to point B is proportional the distance between point A and B. In     other words you can calculate the response time for any request given the distance between you and the receiver.
 </br>
 
 * _**Plan an experiment, which measures response times of these three web servers.**_
