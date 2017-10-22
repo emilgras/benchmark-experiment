@@ -19,13 +19,17 @@
   | Server | Location | Iterations | Total time (sec) | Average time (ms) |
   | --- | --- | --- | --- | ---|
   | http://139.59.132.185:8080 | Frankfurt | 100 | 4.3 | 43.0 |
-  | http://192.81.216.124:8080 | US | 100 | 19.3 | 193.0 |
+  | http://192.81.216.124:8080 | US (New York) | 100 | 19.3 | 193.0 |
   | http://128.199.180.131:8080 | Singapore | 100 | 34.6 | 346.0 |
 </br>
 
 * _**Evaluate your experiment and interpret the measurements and results.**_
 
-  
+  | From | To | Distance (km) |
+  | --- | --- | --- |
+  | Copenhagen | Frankfurt | 671 |
+  | Copenhagen | US (New York) | 6.188 |
+  | Copenhagen | Singapore | 9973 |
 </br>
 
 * _**Discuss what you are measuring, how you are measuring, and what could influence your results., see Peter Sestoft “Microbenchmarks in Java and C#” https://www.itu.dk/people/sestoft/papers/benchmarking.pdf for inspiration.**_
