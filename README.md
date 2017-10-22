@@ -26,13 +26,22 @@
   | From | To | Distance (km) |
   | --- | --- | --- |
   | Copenhagen | Frankfurt | 671 |
-  | Copenhagen | US (New York) | 6.188 |
+  | Copenhagen | US (New York) | 6188 |
   | Copenhagen | Singapore | 9973 |
 </br>
 
 * _**Evaluate your experiment and interpret the measurements and results.**_
 
-  hej
+  From the distances we would expect the following:
+  
+  1. The response time from CPH to Frankfurt is (6188 / 671) = 9.2 times faster than from CPH tp New York
+  
+  2. The response time from CPH to Frankfurt is (9973 / 671) = 9.2 times faster than from CPH tp Singapore
+  
+  
+  
+  
+  
 </br>
 
 * _**Discuss what you are measuring, how you are measuring, and what could influence your results., see Peter Sestoft “Microbenchmarks in Java and C#” https://www.itu.dk/people/sestoft/papers/benchmarking.pdf for inspiration.**_
