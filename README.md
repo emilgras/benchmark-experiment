@@ -41,10 +41,11 @@
   
   2. The response time from CPH to Frankfurt is (9973 / 671) = 14.9 times faster than from CPH tp Singapore
   
-  
-  
-  
-  
+     The same calculation can be done between the two distances CPH -> Frankfurt and CPH -> Singapore.
+     That would give us an expected result of (9973 / 671) = 14.7. 
+     The actual test looks like this (346 / 43) = 8. 
+     
+  In conclusion the response time for a request is not proportional to the distance between the sender and the receiver. Thus, the hypothesis is not correct. MYTH BUSTED!  
 </br>
 
 * _**Discuss what you are measuring, how you are measuring, and what could influence your results., see Peter Sestoft “Microbenchmarks in Java and C#” https://www.itu.dk/people/sestoft/papers/benchmarking.pdf for inspiration.**_
