@@ -9,9 +9,7 @@
 
 * _**Plan an experiment, which measures response times of these three web servers.**_
 
-  To test the hypothesis I will setup an experiment. I will write a script that sends 10.000 requests to 3 different servers     located in different countries around the world. I will then measure the average response time. I will then measure the         distance between my exact location and the 3 server locations. 
-
-  If the hypothesis is correct I would expect that a request to a server with the distance X would take the time T to return     the response. I would also expect that another request with twice the distance (X * 2) would take exactly double the time of   the first request, T * 2. 
+  Testing this hypothesis requires a script that measures the reponse time for a number of requests sent to 3 different servers around the orld. Furthermore, to test and validate the hypothesis a distance between me and the 3 server locations must be calculated from a birdview perspective.
 </br>
 
 * _**Execute the experiment, which measures response times of these three webservers.**_
@@ -23,13 +21,18 @@
   | http://128.199.180.131:8080 | Singapore | 100 | 34.6 | 346.0 |
 </br>
 
-* _**Evaluate your experiment and interpret the measurements and results.**_
+* _**Execute the experiment, which calculates the distance for the three webservers.**_
 
   | From | To | Distance (km) |
   | --- | --- | --- |
   | Copenhagen | Frankfurt | 671 |
   | Copenhagen | US (New York) | 6.188 |
   | Copenhagen | Singapore | 9973 |
+</br>
+
+* _**Evaluate your experiment and interpret the measurements and results.**_
+
+  hej
 </br>
 
 * _**Discuss what you are measuring, how you are measuring, and what could influence your results., see Peter Sestoft “Microbenchmarks in Java and C#” https://www.itu.dk/people/sestoft/papers/benchmarking.pdf for inspiration.**_
