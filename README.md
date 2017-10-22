@@ -16,12 +16,11 @@
 
 * _**Execute the experiment, which measures response times of these three webservers.**_
 
-  | Method | Endpoint | Description | Parameters | Result |
-  | --- | --- | --- | --- | --- |
-  | GET | /user | get all users | --- | list of users | 
-  | GET | /user/<public_id> | get a single user | `public_id` | single user |
-  | PUT | /user/<public_id> | promote user to admin | `public_id` | --- |
-  | DELETE | /user/<public_id> | deletes a user | `public_id` | --- |
+  | Server | Iterations | Total (sec) | Avg (sec) |
+  | --- | --- | --- | --- |
+  | http://139.59.132.185:8080 | 10.000 | 413.0 | 0.0413 |
+  | http://192.81.216.124:8080 | --- | --- | --- |
+  | http://128.199.180.131:8080 | --- | --- | --- |
 </br>
 
 * _**Evaluate your experiment and interpret the measurements and results.**_
