@@ -2,7 +2,7 @@
 
 <br>
 
-* __Formulate a hypothesis/problem statement about behavior of response times of these three web servers.__
+* _**Formulate a hypothesis/problem statement about behavior of response times of these three web servers.**_
 
   The delay upon sending a request from point a to point b is proportional to the length between the same points.
 </br>
