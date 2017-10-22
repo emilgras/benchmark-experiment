@@ -16,11 +16,11 @@
 
 * _**Execute the experiment, which measures response times of these three webservers.**_
 
-  | Server | Iterations | Total (sec) | Avg (sec) |
+  | Server | Iterations | Total time (sec) | Average time (ms) |
   | --- | --- | --- | --- |
-  | http://139.59.132.185:8080 | 10.000 | 413.0 | 0.0413 |
-  | http://192.81.216.124:8080 | --- | --- | --- |
-  | http://128.199.180.131:8080 | --- | --- | --- |
+  | http://139.59.132.185:8080 | 100 | 04.3 | 043.0 |
+  | http://192.81.216.124:8080 | 100 | 19.3 | 193.0 |
+  | http://128.199.180.131:8080 | 100 | 34.6 | 346.0 |
 </br>
 
 * _**Evaluate your experiment and interpret the measurements and results.**_
