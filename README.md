@@ -36,7 +36,9 @@
   
   1. The response time from CPH to Frankfurt is (6188 / 671) = 9.2 times faster than from CPH tp New York
   
-  2. The response time from CPH to Frankfurt is (9973 / 671) = 9.2 times faster than from CPH tp Singapore
+  This
+  
+  2. The response time from CPH to Frankfurt is (9973 / 671) = 14.9 times faster than from CPH tp Singapore
   
   
   
