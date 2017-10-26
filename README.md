@@ -1,7 +1,7 @@
 ## Benchmark Experiment
 
 
-*OBS: the hypothesis is only for testing purposes and does not represent the real world*
+*OBS: the hypothesis is fictional and only for testing purposes and does not represent the real world*
 </br>
 </br>
 
