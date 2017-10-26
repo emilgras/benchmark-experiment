@@ -1,9 +1,9 @@
 ## Benchmark Experiment
 
-<br>
-- *OBS: the hypothesis is only for testing purposes and does not represent the real world*
-<br>
-<br>
+</br>
+*OBS: the hypothesis is only for testing purposes and does not represent the real world*
+</br>
+</br>
 
 * _**Formulate a hypothesis/problem statement about behavior of response times of these three web servers.**_
 
