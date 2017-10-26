@@ -1,10 +1,12 @@
 ## Benchmark Experiment
 
 <br>
+<br>
+   *OBS: the hypothesis is only for testing purposes and does not represent the real world*
+<br>
 
 * _**Formulate a hypothesis/problem statement about behavior of response times of these three web servers.**_
 
-  *OBS: the hypothesis is only for testing purposes and does not represent the real world*
   The response time for a single request sent from point A to point B is proportional to the distance between the same points A and B. In other words you can calculate the response time for any request given the distance between you and the receiver.
 </br>
 
